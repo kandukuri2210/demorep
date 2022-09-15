@@ -1,2 +1,2 @@
-"Welcome to git software"
+"Welcome to git software" Now you are changing this file in Remote repository i.e in GITHUB.
 "GIT Intro"
